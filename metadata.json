@@ -1,0 +1,7 @@
+{
+  "name": "Conductores del Mundo - Asesor PWA",
+  "description": "An enterprise-grade Progressive Web App for 'Conductores del Mundo' advisors. This PWA acts as a central control cockpit for managing clients through various business flows like installment sales, scheduled savings, and collective credit. It embodies a 'High Tech, High Touch' philosophy, empowering advisors to assist clients at every step.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
