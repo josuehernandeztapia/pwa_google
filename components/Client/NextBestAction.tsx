@@ -10,7 +10,7 @@ interface NextBestActionProps {
 }
 
 interface ActionDetails {
-    icon: JSX.Element;
+    icon: React.ReactNode;
     title: string;
     description: string;
     action: {
